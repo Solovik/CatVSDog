@@ -39,7 +39,7 @@
 скачать и классифицировать все файлы из списка `urllist.txt` в 4 потока.
 
 ```bash
-python catsVSdogs.py urllist.txt --threads=4 
+python catsVSdogs.py data/input/urllist.txt -t 4 
 ```
 
 > NB!
